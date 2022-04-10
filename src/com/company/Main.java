@@ -40,7 +40,7 @@ public class Main {
 
 class coche {
 
-    public int numero = 4;
+    public int numero = 0;
 
     public void quitarPuerta(){
         this.numero--;
